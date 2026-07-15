@@ -160,4 +160,6 @@ npm run dev
 
 **Rohit** — [@RohitBCA456](https://github.com/RohitBCA456)
 
+**Email** — ry2281104@gmail.com
+
 *Built as a pre-interview technical assessment.*
